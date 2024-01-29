@@ -1,0 +1,17 @@
+{
+  "name": "compiler",
+  "version": "1.0.0",
+  "description": "This is Description",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "https://github.com/AbRezaei",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.11.2",
+    "mind-ar": "^1.2.5",
+    "nodemon": "^3.0.3"
+  }
+}
